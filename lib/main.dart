@@ -32,7 +32,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _paginaAtual = 2;
+  int _paginaAtual = 0;
   void aoMudarDeAba(int indice) {
     setState(() {
       _paginaAtual = indice;
