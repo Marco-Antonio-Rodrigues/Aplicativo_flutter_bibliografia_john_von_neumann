@@ -1,11 +1,12 @@
 # Aplicativo_flutter_bibliografia_john_von_neumann
- 
-<div>
-<image src = "![tela 1](https://user-images.githubusercontent.com/94053824/192525474-5b72ef91-e0fc-4efd-992c-617446837ad2.png)"/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94053824/192525474-5b72ef91-e0fc-4efd-992c-617446837ad2.png" />
 </div>
-<div>
-![tela 2](https://user-images.githubusercontent.com/94053824/192525708-e54dbebd-cdf8-4081-9add-9e1a9de86a7c.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94053824/192525708-e54dbebd-cdf8-4081-9add-9e1a9de86a7c.png" />
 </div>
-<div>
-![tela 3](https://user-images.githubusercontent.com/94053824/192525932-458ea75c-64ec-48a4-8eb5-31c9ba67b3ec.png)
+<div align="center">
+<img src="https://user-images.githubusercontent.com/94053824/192529214-2bf75ea4-0968-4f55-beae-e46b4cfdc2e0.png" />
 </div>
+
